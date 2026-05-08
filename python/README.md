@@ -32,7 +32,7 @@
 
 ```bash
 # 1. Клонуйте репозиторій
-git clone https://github.com/your-username/techflow-report.git
+https://github.com/Gennadiy-Zubariev/TechFlow-Consulting-Weekly-Report-Generator/tree/main/n8n
 cd techflow-report
 
 # 2. Створіть віртуальне середовище
